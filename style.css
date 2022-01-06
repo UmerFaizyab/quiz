@@ -1,0 +1,16 @@
+body{
+    background-color: #001427;
+}
+.hov:hover{
+    background-color: white !important;
+    color: black !important;
+    transition: 0.4s;
+}
+.hov:active{
+    background-color: black !important;
+    color: white !important;
+    transition: 0.4s;
+}
+.head{
+    background-image: linear-gradient(#0E6BA8,#0E6BA8,#A6E1FA);
+}
